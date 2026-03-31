@@ -7,7 +7,7 @@
     <RootNamespace>BenchGecko</RootNamespace>
 
     <PackageId>BenchGecko</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>BenchGecko</Authors>
     <Company>BenchGecko</Company>
     <Description>C# SDK for BenchGecko — compare LLM benchmarks, estimate inference costs, and explore AI model performance data across 300+ models and 50+ providers.</Description>

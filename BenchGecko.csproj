@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0</TargetFrameworks>
+    <PackageId>BenchGecko</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>BenchGecko</Authors>
+    <Company>BenchGecko</Company>
+    <Description>Official .NET SDK for the BenchGecko API. Compare AI models, benchmarks, and pricing.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://benchgecko.ai</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BenchGecko/benchgecko-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ai;benchmarks;llm;models;pricing;machine-learning;gpt;claude</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>

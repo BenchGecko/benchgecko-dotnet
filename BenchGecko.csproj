@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>BenchGecko</RootNamespace>
+
+    <PackageId>BenchGecko</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>BenchGecko</Authors>
+    <Company>BenchGecko</Company>
+    <Description>C# SDK for BenchGecko — compare LLM benchmarks, estimate inference costs, and explore AI model performance data across 300+ models and 50+ providers.</Description>
+    <PackageProjectUrl>https://benchgecko.ai</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BenchGecko/benchgecko-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>llm;benchmarks;ai;models;inference;gpt;claude;comparison</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>

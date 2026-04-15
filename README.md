@@ -1,6 +1,6 @@
 # BenchGecko
 
-C# SDK for [BenchGecko](https://benchgecko.ai) -- the data platform for comparing AI model benchmarks, estimating inference costs, and exploring performance across providers.
+Official .NET SDK for [BenchGecko](https://benchgecko.ai), the data layer of the AI economy. Every model. Every agent. Everything AI. Tracked.
 
 ## Overview
 
@@ -122,7 +122,7 @@ The `BenchmarkCategory` enum covers the major evaluation dimensions tracked by [
 
 ## Data Source
 
-Benchmark data, model metadata, and pricing information are maintained by [BenchGecko](https://benchgecko.ai). Visit the platform for live leaderboards, interactive comparisons, and the full model database covering 300+ models across 50+ providers.
+Benchmark data, model metadata, and pricing information are maintained by [BenchGecko](https://benchgecko.ai), the data layer of the AI economy. Query thousands of AI models with cross-provider pricing and daily price history. Track company valuations, funding timelines, and revenue estimates. Pull benchmark scores, agent leaderboards, and a live changelog of every price drop, every launch, every deprecation. If it moved in AI today, it's already on BenchGecko.
 
 ## License
 
